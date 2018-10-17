@@ -1,6 +1,6 @@
 # AuthApp
 
-This project was generated with Angular version 6.0.8.
+This project was generated with Angular version 6
 
 ## Features
 - Bootstrap 
